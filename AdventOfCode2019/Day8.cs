@@ -106,6 +106,7 @@ namespace Day8
         {
             LayerTheInput();
             OutputImage();
+            Console.WriteLine("Press enter to continue...");
             Console.ReadLine();
         }
     }

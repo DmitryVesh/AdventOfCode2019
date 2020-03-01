@@ -214,6 +214,7 @@ namespace Day11
         {
             IntCodeComputer Day11Part1 = new IntCodeComputer(puzzleInput);
             Day11Part1.Run();
+            Console.WriteLine("Press enter to continue...");
             Console.ReadLine();
         }
     }

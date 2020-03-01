@@ -344,6 +344,7 @@ namespace Day15
         {
             IntCodeComputer computer = new IntCodeComputer(puzzleInput);
             computer.Run();
+            Console.WriteLine("Press enter to continue...");
             Console.ReadLine();
         }
     }

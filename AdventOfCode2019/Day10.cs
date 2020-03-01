@@ -74,12 +74,14 @@ namespace Day10
             splitInput = puzzleInput.Split(',');
             MakeBoardOfAsteroids();
             PrintBoardOfAsteroids(boardOfAsteroids, new int[] { -1, -1 });
+
             int asteroidNum = ReturnAsteroidNum(boardOfAsteroids);
             directions = ReturnDirectionsList();
             int bestNum = 0;
             int asteroidCheckedNum = 0;
             int currentAsteroidNum;
 
+            Console.WriteLine("Please wait...");
             for (int heightCount = 0; heightCount < heightOfBoard; heightCount++)
             {
                 for (int lengthCount = 0; lengthCount < lengthOfBoard; lengthCount++)
@@ -271,6 +273,7 @@ namespace Day10
             int[] coordiantesTwoHunderedthAsteroid = ReturnCoordinatesOf200thDestroyedAsteroid();
             Console.WriteLine($"The coordinates of 200th asteroid are : {coordiantesTwoHunderedthAsteroid[0]},{coordiantesTwoHunderedthAsteroid[1]}");
             Console.WriteLine($"Final answer : {(coordiantesTwoHunderedthAsteroid[0] * 100) + coordiantesTwoHunderedthAsteroid[1]}");
+            Console.WriteLine("Press enter to continue...");
             Console.ReadLine();
         }
     }

@@ -1,4 +1,5 @@
-﻿using Day3;
+﻿
+using Day3;
 using Day4;
 using Day5;
 using Day6; // incomplete
@@ -28,23 +29,51 @@ namespace AdventOfCode2019
     {
         static void Main()
         {
-            //Day3Code run = new Day3Code();
-            //Day4Code run = new Day4Code();
-            //Day5Code run = new Day5Code();
-            //Day6Code run = new Day6Code();
-            //Day7Code run = new Day7Code();
-            //Day8Code run = new Day8Code();
-            //Day9Code run = new Day9Code();
-            //Day10Code run = new Day10Code();
-            //Day11Code run = new Day11Code();
-            //Day13Code run = new Day13Code();
-            //Day15Code run = new Day15Code();
-            //Day17Code run = new Day17Code();
-            Day19Code run = new Day19Code();
-            //Day21Code run = new Day21Code();
-            //Day23Code run = new Day23Code();
+            //Day3Code day3 = new Day3Code();
+            //day3.main();
 
-            run.main();
+            //Day4Code day4 = new Day4Code();
+            //day4.main();
+
+            //Day5Code day5 = new Day5Code();
+            //day5.main();
+
+            //Day6Code day6 = new Day6Code();
+            //day6.main();
+
+            //Day7Code day7 = new Day7Code();
+            //day7.main();
+
+            Day8Code day8 = new Day8Code();
+            day8.main();
+
+            //Day9Code day9 = new Day9Code();
+            //day9.main();
+
+            //Day10Code day10 = new Day10Code();
+            //day10.main();
+
+            Day11Code day11 = new Day11Code();
+            day11.main();
+
+            Day13Code day13 = new Day13Code();
+            day13.main();
+
+            Day15Code day15 = new Day15Code();
+            day15.main();
+
+            //Day17Code day17 = new Day17Code();
+            //day17.main();
+
+            //Day19Code day19 = new Day19Code();
+            //day19.main();
+
+            //Day21Code day21 = new Day21Code();
+            //day21.main();
+
+            //Day23Code day23 = new Day23Code();
+            //day23.main();
+
         }
     }
 }
