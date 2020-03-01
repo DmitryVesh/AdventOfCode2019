@@ -1,0 +1,11 @@
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/bin/Release/netcoreapp3.0/AdventOfCode2019
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/bin/Release/netcoreapp3.0/AdventOfCode2019.deps.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/bin/Release/netcoreapp3.0/AdventOfCode2019.runtimeconfig.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/bin/Release/netcoreapp3.0/AdventOfCode2019.runtimeconfig.dev.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/bin/Release/netcoreapp3.0/AdventOfCode2019.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/bin/Release/netcoreapp3.0/AdventOfCode2019.pdb
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/obj/Release/netcoreapp3.0/AdventOfCode2019.csprojAssemblyReference.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/obj/Release/netcoreapp3.0/AdventOfCode2019.AssemblyInfoInputs.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/obj/Release/netcoreapp3.0/AdventOfCode2019.AssemblyInfo.cs
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/obj/Release/netcoreapp3.0/AdventOfCode2019.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/AdventOfCode2019/obj/Release/netcoreapp3.0/AdventOfCode2019.pdb
